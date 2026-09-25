@@ -1,4 +1,0 @@
-Title: Payment Policy
-Supported payment methods depend on the checkout options available for the order.
-A failed payment does not necessarily mean that an amount was permanently charged.
-If money is deducted but the order is not confirmed, the customer should contact support with the transaction details.

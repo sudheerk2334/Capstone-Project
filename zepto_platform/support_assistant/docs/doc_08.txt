@@ -1,4 +1,0 @@
-Title: Personal Data Policy
-Customers should not send passwords, OTPs, full card numbers, or other sensitive authentication information through support chat.
-Support may request limited information needed to locate an order or account.
-Personal information is handled according to the service privacy and security procedures.

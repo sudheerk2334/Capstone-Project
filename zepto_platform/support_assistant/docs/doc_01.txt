@@ -1,4 +1,0 @@
-Title: Password Reset Policy
-Customers who forget their password can use the Forgot Password option on the sign-in page.
-A password reset link is sent to the registered email address. Reset links expire after 30 minutes.
-Never share a password or one-time reset code with another person.

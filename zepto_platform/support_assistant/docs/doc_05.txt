@@ -1,4 +1,0 @@
-Title: Delivery Policy
-Delivery estimates are shown during checkout and in the order details.
-Delays can occur because of weather, traffic, high demand, or operational issues.
-Customers can check the latest order status from the order tracking page.

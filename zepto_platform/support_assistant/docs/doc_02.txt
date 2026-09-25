@@ -1,4 +1,0 @@
-Title: Account Login Help
-If a customer cannot log in, first verify the email address and password.
-After repeated unsuccessful attempts, the account may be temporarily locked.
-Customers should wait for the lock period to finish or contact support if the problem continues.
