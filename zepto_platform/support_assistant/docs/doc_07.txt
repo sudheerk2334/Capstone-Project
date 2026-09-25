@@ -1,0 +1,4 @@
+Title: Customer Support Hours
+Standard customer support is available from 8 AM to 10 PM local time.
+For urgent account or payment issues, customers should use the support channel shown in the application.
+Response times can vary during peak demand.
